@@ -7,7 +7,11 @@
 }
 
 .op {
-    padding-bottom: 60px;
+    padding-top: 72px;
+}
+
+.Produtos {
+    padding-top: 55px;
 }
 
 .icon-dado {
@@ -17,7 +21,6 @@
 }
 
 .carousel-item {
-    margin-top: 72px;
     max-width:1280px;
     max-height:480px;
     width: auto;
@@ -97,8 +100,16 @@ p {
         font-size: 1em;
     }
 
+    .op {
+        padding-top: 66px;
+    }
+
+    
+.Produtos {
+    padding-top: 0px;
+}
+
     .carousel-item {
-        margin-top: 66px;
         max-width:950px;
         max-height:280px;
         width: auto;
@@ -111,8 +122,16 @@ p {
         font-size: 1em;
     }
 
+    .op {
+        padding-top: 66px;
+    }
+
+    
+.Produtos {
+    padding-top: 0px;
+}
+
     .carousel-item {
-        margin-top: 66px;
         max-width:450px;
         max-height:180px;
         width: auto;
